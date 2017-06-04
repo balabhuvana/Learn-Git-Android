@@ -14,19 +14,19 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d(TAG,"Test One ");
-        Log.d(TAG,"First Branch One ");
+        Log.d(TAG,"First Branch One - First Change");
         Log.d(TAG,"First Branch Two ");
         Log.d(TAG,"First Branch Three ");
         Log.d(TAG,"First Branch Four ");
         Log.d(TAG,"First Branch Five ");
 
-        Log.d(TAG,"Second Branch One ");
+        Log.d(TAG,"Second Branch One -  Second Change");
         Log.d(TAG,"Second Branch Two ");
         Log.d(TAG,"Second Branch Three ");
         Log.d(TAG,"Second Branch Four ");
         Log.d(TAG,"Second Branch Five ");
 
-        Log.d(TAG,"Third Branch One ");
+        Log.d(TAG,"Third Branch One - Third change");
         Log.d(TAG,"Third Branch Two ");
         Log.d(TAG,"Third Branch Three ");
         Log.d(TAG,"Third Branch Four ");
