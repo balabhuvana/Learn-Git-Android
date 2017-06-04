@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d(TAG,"Test One ");
+        Log.d(TAG,"First Branch One ");
+        Log.d(TAG,"First Branch Two ");
+        Log.d(TAG,"First Branch Three ");
+        Log.d(TAG,"First Branch Four ");
+        Log.d(TAG,"First Branch Five ");
     }
 }
