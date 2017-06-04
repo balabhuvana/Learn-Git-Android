@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG,"First Branch Four ");
         Log.d(TAG,"First Branch Five ");
 
-        Log.d(TAG,"Second Branch One ");
+        Log.d(TAG,"Second Branch One -  Second Change");
         Log.d(TAG,"Second Branch Two ");
         Log.d(TAG,"Second Branch Three ");
         Log.d(TAG,"Second Branch Four ");
